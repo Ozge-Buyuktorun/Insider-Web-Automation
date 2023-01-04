@@ -6,6 +6,10 @@ Insider Website Automations
 
 While I work in these automation project, I used Firefox webdriver.
 
+Please, look at this link:
+https://github.com/mozilla/geckodriver/releases
+![image](https://user-images.githubusercontent.com/74399824/210509205-80d8b50b-6449-4319-bf87-561121445545.png)
+
 WEBPAGE_BASEURL = "https://useinsider.com/"
 
 A few simple steps on the site above xpath, ccs selector, etc. i tried to use it to make it happen.
